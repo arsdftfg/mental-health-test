@@ -11,5 +11,5 @@
 ## 🚀 Запуск  
 1. Клонируйте репозиторий:  
    ```bash
-   git clone https://github.com/ваш-логин/mental-health-test.git ```
+   git clone https://github.com/ваш-логин/mental-health-test.git 
    
